@@ -1,4 +1,4 @@
-# Stable Diffusion Portable
+# Portable Stable Diffusion
 This is a portable version based on the [Stable Diffusion by AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) version
 
 ----
