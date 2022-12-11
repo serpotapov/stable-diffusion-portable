@@ -25,4 +25,4 @@ This is a portable version based on the [Stable Diffusion by AUTOMATIC1111](http
 
 ## Tutorial and Settings
 
-[![Stable Diffusion Review](https://i.imgur.com/JbBPYuE.jpg)](https://www.youtube.com/watch?v=PveSwofCBic)
+[![Stable Diffusion Review](https://i.imgur.com/JbBPYuE.jpg)](https://youtu.be/jepK6ufemMw)
