@@ -11,7 +11,7 @@ This is a portable version based on the [Stable Diffusion by AUTOMATIC1111](http
 3. Run `webui-user-first-run.cmd` and wait for a couple seconds
 4. When you see the `models` folder appeared (while cmd working),</br>
  place any model (for example [Deliberate](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate.safetensors)) in the `...\models\Stable-diffusion` directory</br>
- Example of a full path: 
+ Example of a full path: </br>
  `D:\stable-diffusion-portable-main\models\Stable-diffusion\Deliberate.safetensors`
 5. After complete download your browser will run Stable Diffusion</br>
  The main launcher for the future will be the `webui-user.bat` file
