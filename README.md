@@ -20,7 +20,7 @@ This is a portable version based on the [Stable Diffusion by AUTOMATIC1111](http
 
 ----
 
-[Our community](https://win10tweaker.ru/forum/topic/stable-diffusion)
+[Our community](https://discord.gg/xpuct)
 
 ----
 
