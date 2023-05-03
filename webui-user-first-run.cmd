@@ -10,4 +10,4 @@ git pull origin master
 del webui-user.bat
 ren webui-user1.bat webui-user.bat
 
-del webui-user-first-run.bat & webui-user.bat
+del webui-user-first-run.cmd & webui-user.bat
