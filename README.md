@@ -6,7 +6,7 @@ This is a portable version based on the [Stable Diffusion by AUTOMATIC1111](http
 ## Running on Windows
 1. Download [Stable Diffusion Portable](https://github.com/serpotapov/stable-diffusion-portable/archive/refs/heads/main.zip)
 2. Unzip the `stable-diffusion-portable-main` folder anywhere you want</br>
- Root directory preferred, and path shouldn't has spaces and Cyrillic</br>
+ Root directory preferred, and path shouldn't have spaces and Cyrillic</br>
  Example: `D:\stable-diffusion-portable-main`</br>
 3. Run `webui-user-first-run.cmd` and wait for a couple seconds
 4. When you see the `models` folder appeared (while cmd working),</br>
